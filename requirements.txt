@@ -1,0 +1,5 @@
+fastapi
+sqlalchemy
+langgraph
+langgraph-api
+openai
