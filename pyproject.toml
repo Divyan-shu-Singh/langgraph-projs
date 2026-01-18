@@ -1,0 +1,6 @@
+[project]
+name = "langgraph-projs"
+version = "0.1.0"
+
+[tool.setuptools]
+packages = ["proj"]
